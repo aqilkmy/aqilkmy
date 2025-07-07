@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aqil Karomy and I'm a graphic designer and an undergraduate Informatics student at Jenderal Soedirman University, from Indonesia</h2>
+<h2 align="center">Hi 👋! My name is Aqil Karomy and I'm a graphic designer and an undergraduate Informatics student at Jenderal Soedirman University, from Indonesia</h2>
 
 ###
 
